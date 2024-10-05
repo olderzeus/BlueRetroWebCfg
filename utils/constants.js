@@ -359,7 +359,8 @@ export const labelName = [
     "8bitdo M30",
     "Google Stadia",
     "Exlene GameCube",
-    "NeoGeo (Parallel 1P)",
+    /* "NeoGeo (Parallel 1P)", */
+    "DS Lite",
     "PCE",
     "PCE 6 btns",
     "NES",
@@ -384,7 +385,8 @@ export const labelName = [
 
 export const systemCfg = [
     'Auto',
-    'Parallel_1P_PP',
+    /* 'Parallel_1P_PP', */
+    'DS Lite',
     'Parallel_2P_PP',
     'NES',
     'PCE',
