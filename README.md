@@ -1,5 +1,6 @@
 # BlueRetroWebCfg
-BlueRetro Web-Bluetooth configuration pages
+BlueRetro Web-Bluetooth configuration pages (Custom for Nintendo DS Lite)
+[BlueRetro for Nintendo DS Lite configuration pages](https://olderzeus.github.io/BlueRetroWebCfg/)
 
 Those pages are base on [Google Chrome Samples](https://github.com/GoogleChrome/samples)
 
